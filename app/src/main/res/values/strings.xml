@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactManageApp</string>
+    <string name="addButton">Add Contact</string>
+    <string name="nameTextView">Name (Required)</string>
+    <string name="numberButton">NumberActivity</string>
+    <string name="title_activity_number">NumberActivity</string>
+    <string name="generateButton">Generate a Number!</string>
+    <string name="numberTextView">0</string>
+    <string name="action_addFriends">Add Friends</string>
+    <string name="action_numberGenerator">Number Generator</string>
+    <string name="action_colorGenerator">Color Picker</string>
+    <string name="title_activity_color_">Color_Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="randomColorButton">Randomize Color!</string>
+    <string name="defaultColorButton">Default Color!</string>
+    <string name="phoneTextView">Phone Number</string>
+    <string name="emailTextView">Email Adress</string>
+
+</resources>

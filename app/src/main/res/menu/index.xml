@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".IndexActivity" >
+    <item android:id="@+id/action_addFriends"
+        android:title="@string/action_addFriends"
+        android:orderInCategory="1"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_numberGenerator"
+        android:title="@string/action_numberGenerator"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_colorGenerator"
+        android:title="@string/action_colorGenerator"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
